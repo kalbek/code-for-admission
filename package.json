@@ -1,0 +1,19 @@
+{
+  "name": "code-for-admission",
+  "version": "1.0.0",
+  "description": "coding practice for university admissions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalbek/code-for-admission.git"
+  },
+  "author": "kaleb bekele nuramo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalbek/code-for-admission/issues"
+  },
+  "homepage": "https://github.com/kalbek/code-for-admission#readme"
+}
